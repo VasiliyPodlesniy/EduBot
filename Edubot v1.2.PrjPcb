@@ -39,7 +39,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=RobotComputerVision_1.1.PcbDoc
+DocumentPath=Edubot v1.2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -56,7 +56,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BYXQGLIJ
 
 [Document2]
-DocumentPath=RobotComputerVision_1.1.SchDoc
+DocumentPath=Edubot v1.2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -73,7 +73,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QUQWHXPS
 
 [Document3]
-DocumentPath=RobotComputerVision_1.1.OutJob
+DocumentPath=Edubot v1.2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -88,6 +88,70 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Edubot v1.2\Design Rule Check - Edubot v1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Edubot v1.2\NC Drill\Edubot v1.2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Edubot v1.2\Gerber\Edubot v1.2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Edubot v1.2\Gerber\Edubot v1.2.G1
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Edubot v1.2\Gerber\Edubot v1.2.G2
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Edubot v1.2\Gerber\Edubot v1.2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Edubot v1.2\Gerber\Edubot v1.2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Edubot v1.2\Gerber\Edubot v1.2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Edubot v1.2\Gerber\Edubot v1.2.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Edubot v1.2\Gerber\Edubot v1.2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Edubot v1.2\Gerber\Edubot v1.2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Edubot v1.2\Gerber\Edubot v1.2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Edubot v1.2\NC Drill\Edubot v1.2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Edubot v1.2\Gerber\Edubot v1.2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Edubot v1.2\Gerber\Edubot v1.2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Edubot v1.2\NC Drill\Edubot v1.2.TXT
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
